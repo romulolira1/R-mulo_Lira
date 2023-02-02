@@ -4,11 +4,11 @@
 
 - 🔥 Software Developer
 
-- 🛠️ **JavaScript, HTML, CSS, SQL, Node.JS**
+- 👨‍💻 Web development
 
 
 
-<!--
+
 
 <br><br>
 
@@ -31,10 +31,10 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=maykbrito&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=romulolira1&show_icons=true&theme=vision-friendly-dark" alt="Rômulo Lira's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romulolira1&layout=compact&theme=vision-friendly-dark" alt="Rômulo Lira's most languages"/>
 </p>
--->
+
 
 <br><br>
 
@@ -46,12 +46,8 @@
 </a>
 </p>
 
-<!--
 
-<img width="490em" src="https://github-readme-twitter-gazf.vercel.app/api?id=maykbrito&layout=wide&show_reply=off&show_retweet=off" />
-
-
-**maykbrito/maykbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**romulolira1/romulolira1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -59,4 +55,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: romulolira1@gmail.com
 - 😄 Pronouns: he/him
 
--->
+
