@@ -2,13 +2,10 @@
 <h1 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px">, I'm Rômulo Lira</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romulolira1&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Software Developer
-
-- 👨‍💻 Web development
-
-
-
-
+**About me:**
+- 💻 I'm software developer
+- ⚛️ JavaScript | NodeJS | React
+- 📝 I'm studying information systems
 
 <br><br>
 
