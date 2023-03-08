@@ -4,7 +4,6 @@
 
 **About me:**
 - 💻 I'm software developer
-- ⚛️ JavaScript | NodeJS | React
 - 📝 I'm studying information systems
 
 <br><br>
