@@ -26,11 +26,17 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=romulolira1&show_icons=true&theme=vision-friendly-dark" alt="Rômulo Lira's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romulolira1&layout=compact&theme=vision-friendly-dark" alt="Rômulo Lira's most languages"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=romulolira1&show_icons=true&theme=transparent)
+ <p align="left">
+ 
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=romulolira1&repo=repositories&show_icons=true&theme=transparent" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=romulolira1&repo=convoychat&show_icons=true&theme=transparent" />
+</a>
+ -->
 </p>
-
 
 <br><br>
 
